@@ -94,7 +94,7 @@
                         <Cursor fx:constant="HAND" />
                      </cursor>
                         </ImageView>
-                        <Label fx:id="label_choose_translation" layoutX="507.0" layoutY="13.0" text="Choose your langauge">
+                        <Label fx:id="label_choose_translation" layoutX="507.0" layoutY="13.0" text="Choose your language">
                             <font>
                                 <Font name="System Bold" size="14.0" />
                             </font>
